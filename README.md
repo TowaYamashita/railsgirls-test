@@ -1,6 +1,6 @@
 # このリポリトジis何？
 
-[railsgirls](https://railsgirls.jp/)をUbuntu on Windows10(WSL)で試したときの勉強用のリポリトジ
+[railsgirls](https://railsgirls.jp/)をUbuntu on Windows10(WSL)で試したときに用いた勉強用のリポリトジ
 
 # 進捗は？
 - Railsインストールガイド
