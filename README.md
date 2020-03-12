@@ -1,24 +1,19 @@
-# README
+# このリポリトジis何？
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[railsgirls](https://railsgirls.jp/)をUbuntu on Windows10(WSL)で試したときの勉強用のリポリトジ
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 進捗は？
+- Railsインストールガイド
+- はじめてのRailsアプリ
+- GitHub であなたのアプリのコードを公開しよう
+- あなたのアプリをインターネットに公開しよう(Heroku)
+- あなたのアプリにコメント出来るようにしましょう
+- bootstrap を使ってモダンなデザインにしましょう
+- ~~Carrierwave を使って画像をリサイズしよう~~
+- Deviseによる認証を追加してみよう
+- ~~Gravatarでプロフィール写真を追加する~~
+- HTML と CSS を使ってアプリをデザインしよう
+- ~~Continuous Deployment~~
+- ~~Build a voting app in Sinatra~~
+- ~~Build a diary app in Ruby on Rails~~
+- ~~Add a back-end to your app (admin pages)~~
